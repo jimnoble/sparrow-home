@@ -1,0 +1,21 @@
+{
+	"name": "sparrow-home",
+
+	"version": "0.0.1",
+
+	"description": "Home site for Sparrow JS",
+
+	"main": "server.js",
+
+	"author": 
+	{
+		"name": "James Noble III",
+
+		"email": "jimnoble@gmail.com"
+	},
+
+	"dependencies":
+	{
+		"sparrow": "0.x.x"
+	}
+}
