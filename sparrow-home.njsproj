@@ -37,11 +37,14 @@
     <Compile Include="node_modules\sparrow\lib\controllers\framework.js" />
     <Compile Include="node_modules\sparrow\lib\extensions.js" />
     <Compile Include="node_modules\sparrow\lib\index.js" />
+    <Compile Include="node_modules\sparrow\lib\logger.js" />
     <Compile Include="node_modules\sparrow\lib\router.js" />
     <Compile Include="node_modules\sparrow\lib\templates\proxy-function.js" />
     <Compile Include="node_modules\sparrow\lib\templating.js" />
     <Compile Include="server.js" />
+    <Content Include=".gitignore" />
     <Content Include="content\index.html" />
+    <Content Include="content\views\about\view.html" />
     <Content Include="content\views\view.html" />
     <Content Include="node_modules\sparrow\.gitignore" />
     <Content Include="node_modules\sparrow\lib\content\index.html" />
@@ -55,6 +58,7 @@
     <Folder Include="content\" />
     <Folder Include="content\styles\" />
     <Folder Include="content\views\" />
+    <Folder Include="content\views\about\" />
     <Folder Include="controllers\" />
     <Folder Include="node_modules\" />
     <Folder Include="node_modules\sparrow\" />
